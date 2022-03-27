@@ -1,0 +1,5 @@
+astropy
+jwst
+python>=3.7
+mirage
+# (See here for Mirage installation: https://mirage-data-simulator.readthedocs.io/en/latest/install.html)
